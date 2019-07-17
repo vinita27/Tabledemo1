@@ -1,15 +1,39 @@
+{"Questions":[
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ]}
+  "Question":"who is pm of india",
+  "Options":"a,b,c,d",
+  "Author":"xyz",
+  "type":"Politics",
+  "Region":"abc"
+},
+{
+  "Question":"who is pm of india",
+  "Options":"a,b,c,d",
+  "Author":"xyz",
+  "type":"Politics",
+  "Region":"abc"
+},
+{
+  "Question":"who is pm of india",
+  "Options":"a,b,c,d",
+  "Author":"xyz",
+  "type":"Politics",
+  "Region":"abc"
+},
+{
+  "Question":"who is pm of india",
+  "Options":"a,b,c,d",
+  "Author":"xyz",
+  "type":"Politics",
+  "Region":"abc"
+},
+{
+  "Question":"who is pm of india",
+  "Options":"a,b,c,d",
+  "Author":"xyz",
+  "type":"Politics",
+  "Region":"abc"
+}
+
+  
+]}
